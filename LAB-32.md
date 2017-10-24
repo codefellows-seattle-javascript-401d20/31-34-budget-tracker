@@ -12,8 +12,8 @@
   * `id` a uuid
   * `categoryID` an id that corresponds to an existing category
   * `timestamp` a date from when the category was created
-  * `name` a string that is the name of the category
-  * `price` a number that is the total amount of $ in the category 
+  * `name` a string that is the name of the expense
+  * `price` a number that is the price of the expense 
   * fell free to add more to your expense if you want
 
 ##### redux
@@ -57,8 +57,7 @@ Provider
 
 ##### ExpenseForm Component 
 * should have an `onComplete` prop that will be invoked with the form state on submit
-* should support an `expense` prop that will both set the intial form state, and update the state in the hook on `componentWillReceiveProps()`
-* should have a `buttonText` prop that will configure the submit button's text
+* it should support create and update
 
 ##### ExpenseItem Component 
 * should have a button that will delete the expense from the appState `onClick`
