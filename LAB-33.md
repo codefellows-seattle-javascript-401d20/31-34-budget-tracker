@@ -2,13 +2,6 @@
 ======
 
 ## Submission Instructions
-* continue working on the fork you created from lab 26
-* open a **new branch** for today's assignment
-* upon completion, create a **new pull request** in github
-* submit a link to your PR in canvas
-
-
-## Configuration  
 * Continue working from lab 32
 
 ## Feature Tasks
