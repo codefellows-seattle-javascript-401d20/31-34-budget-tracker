@@ -12,4 +12,4 @@
 * Find to places to conditionaly render UI in your code based on view state (using `util.renderIf`)
 
 ## Bonus
-* Test your reducers and action creators
+* 1pt Test your reducers and action creators
